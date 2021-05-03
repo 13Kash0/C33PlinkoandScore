@@ -1,1 +1,1 @@
-# C33PlinkoandScore
+# C33-plinko-score
